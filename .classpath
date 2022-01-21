@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Ex1_Persona"/>
+	<classpathentry kind="src" path="Ex2_Password"/>
+	<classpathentry kind="src" path="Ex3_Electrodomestico"/>
+	<classpathentry kind="src" path="Ex4_Serie"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
